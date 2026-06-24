@@ -50,6 +50,8 @@ export default function App() {
       case "Quick Sort":
         await quickSort(arr, 0, arr.length - 1);
         break;
+      default:
+        break;
     }
 
     setActiveIndices([]);
