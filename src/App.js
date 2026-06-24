@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css'
 import SortingVisualiser from './sortingvisualiser/SortingVisualiser.jsx'
 function App() {
